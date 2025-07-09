@@ -22,8 +22,8 @@ import java.util.List;
 @Service
 public class KinesisConsumer {
     private static final String STREAM_NAME = "FirstDataStream"; // your stream name
-    private static final String ACCESS_KEY = "AKIAVHWHGB2PGYH6YG4S";
-    private static final String SECRET_KEY = "T0eEu+uPnS4tdr4JWtQscwFnYBmUaidCOxHsFoo7";
+    private static final String ACCESS_KEY = "AKIAVHW";
+    private static final String SECRET_KEY = "T0eEu+uPnS4tdr4JxHsFoo7";
 
     private KinesisClient kinesisClient;
 
